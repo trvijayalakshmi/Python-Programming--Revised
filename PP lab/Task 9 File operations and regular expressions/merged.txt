@@ -1,0 +1,4 @@
+Hello, this is Python File Handling!
+Writing second line.
+
+This content is copyrighted
